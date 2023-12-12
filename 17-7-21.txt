@@ -1,0 +1,18 @@
+1. Kubernetes architecture explained| kubernetes tutorial 15
+2. kubernetes zero to hero.
+
+
+AWS offering for kubernetes service: Elastic kubernetes service (EKS)
+
+Docker :
+Configuring the AWS Cli: https://docs.aws.amazon.com/cli/lates...
+
+-----------------------------------------------------------------------------------------------------------
+"Docker in Practice":
+Developing with Docker                                    ►  https://youtu.be/6YisG2GcXaw
+Docker Compose                                               ►  https://youtu.be/MVIcrmeV_6c
+Dockerfile                                                            ►  https://youtu.be/WmcdMiyqfZs
+Private Repository                                              ►  https://youtu.be/vWSRWpOPHws
+Deploy your containerized Application           ►  https://youtu.be/ZowjOhpAcIc
+
+
